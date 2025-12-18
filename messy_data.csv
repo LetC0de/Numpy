@@ -1,0 +1,13 @@
+ID,Name,Age,Salary,Joining_Date,Department
+1,John,28,50000.0,2018-01-15,Sales
+2,Alice,,62000.0,2019-03-22,HR
+3,Bob,35,58000.0,2017-07-30,Sales
+4,John,28,50000.0,2018-01-15,Sales
+5,Eve,29,,2018/05/12,Finance
+6,Charlie,25,45000.0,2019-12-01,IT
+7,,32,61000.0,2020-06-20,Sales
+8,Dave,,52000.0,2021-02-14,
+9,Alice,Thirty,62000.0,2019-03-22,HR
+10,Eve,29,1000000.0,2018-05-12,Finance
+11,Frank,40,,2016-08-19,IT
+12,Grace,27,47000.0,2022-09-25,Support
